@@ -1,7 +1,8 @@
 # DownloadInfo
 
 Version 0.1.0
-#changes
+changes
+
 Added an option for file size in Gigabytes and Megabytes
 
 
